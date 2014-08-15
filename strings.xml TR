@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EL Feneri</string>
+    <string name="hata">Hata</string>
+    <string name="sorry">Malesef ! , Cihazınızda flaş bulunmamaktadır !!!</string>
+    <string name="ok">TAMAM</string>
+
+    <color name="siyah">#000000</color>
+    <color name="beyaz">#ffffff</color>
+</resources>
