@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Flash Light</string>
+    <string name="hata">Error</string>
+    <string name="sorry">Sorry, your device does not support flash light!</string>
+    <string name="ok">OK</string>
+
+    <color name="siyah">#000000</color>
+    <color name="beyaz">#ffffff</color>
+</resources>
